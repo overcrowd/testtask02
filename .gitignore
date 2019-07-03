@@ -1,0 +1,6 @@
+.git/
+.vscode/
+
+config/local.json
+
+node_modules/
